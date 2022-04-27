@@ -1,4 +1,4 @@
-This folder is where you will see 3 betas for my final project. Each folder will have a specific readme to them telling you all the changes in each beta. Please read all of them, including this one. Thanks
+This folder is where you will see 3 betas for my final project. Each folder will have a specific readme to them telling you all the changes in each beta. Please read all of them, including this one. Thanks!
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
 
