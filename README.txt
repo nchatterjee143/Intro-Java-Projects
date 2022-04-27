@@ -1,1 +1,0 @@
-All my Intro Java projects will be stored into this repository for archival reasons. Hello to whoever sees this!
