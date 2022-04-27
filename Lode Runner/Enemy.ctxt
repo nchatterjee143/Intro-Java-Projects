@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Write\ a\ description\ of\ class\ Enemy\ here.\n\ \n\ @author\ Neel\ Chatterjee\ \n\ @version\ 3/31/22\n
+comment1.params=
+comment1.target=int\ getCommand()
+comment2.params=c
+comment2.target=void\ executeCommand(int)
+comment3.params=
+comment3.target=void\ showRunning()
+comment4.params=
+comment4.target=void\ showMovingOnBar()
+comment5.params=
+comment5.target=void\ showClimbing()
+comment6.params=
+comment6.target=void\ fall()
+numComments=7

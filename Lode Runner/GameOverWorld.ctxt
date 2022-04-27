@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameOverWorld\ here.\n\ \n\ @author\ Neel\ Chatterjee\ \n\ @version\ 4/3/22\n
+comment1.params=
+comment1.target=GameOverWorld()
+comment2.params=
+comment2.target=void\ setBG()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\ \n\ @author\ Neel\ Chatterjee\ \n\ @version\ 3/31/22\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getCommand()
+comment3.params=
+comment3.target=void\ removeGold()
+comment4.params=
+comment4.target=void\ loseLife()
+numComments=5

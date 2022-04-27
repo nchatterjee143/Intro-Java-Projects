@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MousePlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ MousePlayer\ here.\n\ \n\ @author\ Neel\ Chatterjee\n\ @version\ 3/31/22\n
+comment1.params=
+comment1.target=int\ getCommand()
+numComments=2
