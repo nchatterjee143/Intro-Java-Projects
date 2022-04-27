@@ -1,3 +1,7 @@
+This folder is where you will see 3 betas for my final project. Each folder will have a specific readme to them telling you all the changes in each beta. Please read all of them, including this one. Thanks!
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-
+
 This is a change log from Beta v3.0 to Final Release. Please read over the changes carefully. This is the most comprehensive update.
 
 - Fixed bug where snake could collapse on itself (ex. Snake is going East, but if use were to input down and then left at the same time, Snake would travel West and die)
