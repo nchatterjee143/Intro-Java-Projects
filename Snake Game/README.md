@@ -13,4 +13,5 @@
 + A tiny rectangular deadly porcupine will roam around at various speeds (depends on difficulty).  
 + 4 holes will randomly appear at the beginning of the game for the snake to traverse through.  
 
-## (WARNING!!!!!!) PLEASE PLAY USING A CODEHS SANDBOX, OTHERWISE IT WILL NOT WORK:##  https://codehs.com/editor/explore_demo_in_sandbox/2669136
+## (WARNING!!!!!!) PLEASE PLAY USING A CODEHS SANDBOX, OTHERWISE IT WILL NOT WORK: ##  
+https://codehs.com/editor/explore_demo_in_sandbox/2669136
